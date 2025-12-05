@@ -1,0 +1,5 @@
+streaming:
+  mode: local_files  # options: local_files, kafka
+  events_dir: streaming/stream_events
+  kafka_bootstrap_servers: localhost:9092
+  kafka_topic: retail_orders

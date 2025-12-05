@@ -1,0 +1,10 @@
+name: 'retail_demand_lakehouse'
+version: '1.0'
+profile: 'retail_demand'
+
+models:
+  retail_demand_lakehouse:
+    staging:
+      +schema: staging
+    marts:
+      +schema: marts
