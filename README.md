@@ -119,7 +119,7 @@ For a full production-style setup, you can integrate:
 - A real Airflow instance
 - A real warehouse like Snowflake/BigQuery/Databricks
 
-## ✅ Highlights for Recruiters
+
 
 This project demonstrates:
 
@@ -128,6 +128,4 @@ This project demonstrates:
 - End-to-end ML demand forecasting pipeline design.
 - DataOps mindset: structure, modularity, and clear documentation.
 
-You can mention this project on your resume and LinkedIn as:
 
-> Built a real-time demand forecasting lakehouse platform using streaming ETL, Spark, Airflow, dbt, and cloud data warehouse concepts to support live analytics and predictive insights.
